@@ -3,3 +3,6 @@ Malzemeler
 2-yumurta
 3-sut
 4-kakao
+
+Hazirlanisi
+1-yumurta sekeri karistir
